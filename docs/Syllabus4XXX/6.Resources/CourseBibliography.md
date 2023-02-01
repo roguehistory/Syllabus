@@ -8,19 +8,19 @@ Bennett, Jane.
 	2001   *The Enchantment of Modern Life : Attachments, Crossings, and Ethics.*  Princeton University Press, Princeton.
 
 Foskolou, Vicky.
-	2008   Byzantium on the Web: New Technologies at the Service of Museums and Educational Institutions for the Presentation of Byzantine Culture. _Byzantinische 	         Zeitschrift_ 100 (2): 629-636. [https://doi.org/10.1515/BYZS.2008.629](https://doi.org/10.1515/BYZS.2008.629).
+	2008   Byzantium on the Web: New Technologies at the Service of Museums and Educational Institutions for the Presentation of Byzantine Culture. _Byzantinische 	         Zeitschrift_ 100 (2): 629-636.
 
 Hall, Martin. 
-	2013   Subaltern voices? Finding the spaces between things and words. In _Historical Archaeology: Back from the Edge_, editors Funari, Pedro Paulo A., Martin             Hall, and Sian Jones, pp. 193-203 Routledge, New York.  [https://doi.org/10.4324/9780203208816](https://doi.org/10.4324/9780203208816).
+	2013   Subaltern voices? Finding the spaces between things and words. In _Historical Archaeology: Back from the Edge_, editors Funari, Pedro Paulo A., Martin             Hall, and Sian Jones, pp. 193-203 Routledge, New York. 
 
 Heath-Stout, Laura E. 
-	2020   Who Writes about Archaeology? An Intersectional Study of Authorship in Archaeological Journals. _American Antiquity_ 85(3): 407–26.        [https://doi.org/10.1017/aaq.2020.28](https://doi.org/10.1017/aaq.2020.28).
+	2020   Who Writes about Archaeology? An Intersectional Study of Authorship in Archaeological Journals. _American Antiquity_ 85(3): 407–26.       
 
 Hedrick Jr., Charles W. 
 	2006   *Ancient History: Monuments and Documents.* Blackwell Publishing, Malden, Massachusetts.
 
 Holtorf, Cornelius
-	2007   Can You Hear Me at the Back? Archaeology, Communication and Society. _European Journal of Archaeology_ 10 (2–3): 149–65. [https://doi.org/10.1177/1461957108095982](https://doi.org/10.1177/1461957108095982)
+	2007   Can You Hear Me at the Back? Archaeology, Communication and Society. _European Journal of Archaeology_ 10 (2–3): 149–65. 
 
 Peers, Glenn. 
 	2020   *Animism, Materiality and Museums How Do Byzantine Things Feel?* Arc Humanities Press, Leeds. 
@@ -56,7 +56,7 @@ Stephenson, Paul.
 	2012   Introduction. In *The Byzantine World*, edited by Paul Stephenson, pp. xxi-xxv. Routledge, London; New York.
 
 Veikou, Myrto. 
-	2022   Which Interdisciplinarity? Reinvigorating Theory and Practice as an Opportunity for Byzantine Studies. In _The 24th International Congress of Byzantine           Studies_, editors Emiliano Fiori and Michele Trizio, pp. 235-256. Fondazione Università Ca’ Foscari, Venice. [https://doi.org/10.30687/978-88-6969-590-2/014](https://doi.org/10.30687/978-88-6969-590-2/014).  
+	2022   Which Interdisciplinarity? Reinvigorating Theory and Practice as an Opportunity for Byzantine Studies. In _The 24th International Congress of Byzantine           Studies_, editors Emiliano Fiori and Michele Trizio, pp. 235-256. Fondazione Università Ca’ Foscari, Venice. 
 	
 #### Archaeology and Numismatics:
 
@@ -70,11 +70,11 @@ Bintliff, J. L.
 	2012   The Archaeology of Byzantine Greece. In *The Complete Archaeology of Greece: from Hunter-Gatherers to the 20th Century AD,* pp. 281-401. Wiley-Blackwell,         Chichester, West Sussex.
 
 Caraher, William. 
-	2019 Slow Archaeology, Punk Archaeology, and the “Archaeology of Care”. _European Journal of Archaeology_ 22(3): 372–85. [https://doi.org/10.1017/eaa.2019.15](https://doi.org/10.1017/eaa.2019.15).
+	2019 Slow Archaeology, Punk Archaeology, and the “Archaeology of Care”. _European Journal of Archaeology_ 22(3): 372–85.
 
 Curta, Florin. 
-	2017   Coins, Forts and Commercial Exchanges in the Sixth- and Early Seventh-Century Balkans._Oxford Journal of Archaeology_ 36(4): 439–54. [https://doi.org/10.1111/ojoa.12123](https://doi.org/10.1111/ojoa.12123).
-	2021   Ethnicity, Archaeology and Nationalism: Remarks on the Current State of Research. _Annales Universitatis Apulensis Series Historica_ 25(1): 227–42. [https://doi.org/10.29302/auash.2021.25.1.11](https://doi.org/10.29302/auash.2021.25.1.11).
+	2017   Coins, Forts and Commercial Exchanges in the Sixth- and Early Seventh-Century Balkans._Oxford Journal of Archaeology_ 36(4): 439–54. 
+	2021   Ethnicity, Archaeology and Nationalism: Remarks on the Current State of Research. _Annales Universitatis Apulensis Series Historica_ 25(1): 227–42. 
 	
 Gândilă, Andrei. 
 	2018   Reconciling the ‘step sisters’: early Byzantine numismatics, history and archaeology. *Byzantinische Zeitschrift*. 111 (1): 103–134.
@@ -97,8 +97,8 @@ Kemmers, Fleur, and Nanouschka Myrberg.
 	2011   Rethinking Numismatics. The Archaeology of Coins. *Archaeological Dialogues* 18 (1): 87–108 [https://doi.org/10.1017/S1380203811000146]
 
 Lockyear, Kris. 
-	2007   Where Do We Go From Here? Recording and Analysing Roman Coins from Archaeological Excavations. _Britannia_ 38: 211–24.  [https://doi.org/10.3815/000000007784016494](https://doi.org/10.3815/000000007784016494).
-	2012   Dating Coins, Dating with Coins. _Oxford Journal of Archaeology_ 31(2): 191–211. [https://doi.org/10.1111/j.1468-0092.2012.00385.x](https://doi.org/10.1111/j.1468-0092.2012.00385.x).
+	2007   Where Do We Go From Here? Recording and Analysing Roman Coins from Archaeological Excavations. _Britannia_ 38: 211–24.  
+	2012   Dating Coins, Dating with Coins. _Oxford Journal of Archaeology_ 31(2): 191–211. 
 
 Motta, Rosa Maria. 
 	2015   _Material Culture and Cultural Identity: A Study of Greek and Roman Coins from Dora_. Archaeopress Archaeology, Oxford.
@@ -107,7 +107,7 @@ Rassalle, Tine.
 	2021   Coins and how to properly excavate, publish, and read them - Ancient Synagogue Coins. *Coin Deposits from Ancient Synagogues in Late Antique Palestine*,           pp. 63-74. ProQuest Dissertations Publishing.  
 
 Thompson, Margaret. 
-	1954   Coins: From the Roman through the Venetian Period. _The Athenian Agora_ 2, The American School of Classical Studies at Athens, Princeton. [https://doi.org/10.2307/3601953](https://doi.org/10.2307/3601953).
+	1954   Coins: From the Roman through the Venetian Period. _The Athenian Agora_ 2, The American School of Classical Studies at Athens, Princeton. 
 
 ### Byzantine Identity  
 
@@ -121,15 +121,15 @@ Goldwyn, Adam J.
 	2022 Byzantium in the American Alt-Right Imagination. In *The Routledge Handbook on Identity in Byzantium*, editors Michael Edward Stewart, David Alan Parnell,           and Conor Whately, pp. 424-439.  Routledge, New York.
 
 Pohl, Walter, and Mathias Mehofer. 
-	2010   Archaeology of Identity. In _Archaeology of Identity - Archäologie der Identität,_ editors Walter Pohl and Mathias Mehofer. pp. 9-23. Verlag der                   Österreichischen Akademie der Wissenschaften. [https://doi.org/10.1553/0x0022e055](https://doi.org/10.1553/0x0022e055).
+	2010   Archaeology of Identity. In _Archaeology of Identity - Archäologie der Identität,_ editors Walter Pohl and Mathias Mehofer. pp. 9-23. Verlag der                   Österreichischen Akademie der Wissenschaften. 
 
 Stewart, Michael Edward, David Alan Parnell, and Conor Whately. 
 	2022 Finding Byzantium. In *The Routledge Handbook on Identity in Byzantium*, editors Michael Edward Stewart, David Alan Parnell, and Conor Whately, pp. 1-16.           Routledge, New York.
 
 Stouraitis, Yannis. 
-	2014   Roman Identity in Byzantium: A Critical Approach. _Byzantinische Zeitschrift_ 107 (1): 175-220  [https://doi.org/10.1515/bz-2014-0009](https://doi.org/10.1515/bz-2014-0009)
-	2017   Reinventing Roman Ethnicity in High and Late Medieval Byzantium. _Medieval Worlds_, Comparative Studies on Medieval Europe, 5, editors Walter Pohl and Andre Gingrich, pp. 70-94. ÖAW, Vienna. 
-	2022   Is Byzantinism an Orientalism? Reflections on Byzantium’s constructed identities and debated ideologies. In _Identities and Ideologies in the Medieval East Roman World_, editor Yannis Stouraitis, pp. 19-47. Edinburgh University Press, Edinburgh. 
+	2014   Roman Identity in Byzantium: A Critical Approach. _Byzantinische Zeitschrift_ 107 (1): 175-220  
+	2017   Reinventing Roman Ethnicity in High and Late Medieval Byzantium. _Medieval Worlds_, Comparative Studies on Medieval Europe, 5, editors Walter Pohl and             Andre Gingrich, pp. 70-94. ÖAW, Vienna. 
+	2022   Is Byzantinism an Orientalism? Reflections on Byzantium’s constructed identities and debated ideologies. In _Identities and Ideologies in the Medieval             East Roman World_, editor Yannis Stouraitis, pp. 19-47. Edinburgh University Press, Edinburgh. 
 
 
 ---
@@ -150,16 +150,16 @@ Fitzpatrick, Kathleen.
 	2019 _Generous Thinking: a Radical Approach to Saving the University_ Johns Hopkins University Press, Baltimore, Maryland.
 
 Ingold, Tim. 
-	2021 In Praise of Amateurs. _Ethnos_ 86(1): 153–72. [https://doi.org/10.1080/00141844.2020.1830824](https://doi.org/10.1080/00141844.2020.1830824).
+	2021 In Praise of Amateurs. _Ethnos_ 86(1): 153–72. 
 
 Landsberg, Alison. 
 	2015   _Engaging the Past: Mass Culture and the Production of Historical Knowledge_. Columbia University Press, New York.
 
 Filene, Benjamin. 
-	2017   History Museums and Identity: Finding “Them,” “Me,” and “Us” in the Gallery. In _The Oxford Handbook of Public History_, editors Paula Hamilton and James         B. Gardner, pp. 327-348. Oxford University Press, Oxford.  [https://doi.org/10.1093/oxfordhb/9780199766024.013.18](https://doi.org/10.1093/oxfordhb/9780199766024.013.18).
+	2017   History Museums and Identity: Finding “Them,” “Me,” and “Us” in the Gallery. In _The Oxford Handbook of Public History_, editors Paula Hamilton and James         B. Gardner, pp. 327-348. Oxford University Press, Oxford.  
 
 Graham, Shawn. 
-	2019 _Failing Gloriously and Other Essays_. The Digital Press at the University of North Dakota.  [https://doi.org/10.31356/dpb015](https://doi.org/10.31356/dpb015).
+	2019 _Failing Gloriously and Other Essays_. The Digital Press at the University of North Dakota.  
 
 Trouillot, Michel-Rolph. 
 	2015   _Silencing the Past: Power and the Production of History_, Beacon Press, Boston, Massachusetts.
@@ -167,13 +167,13 @@ Trouillot, Michel-Rolph.
 ### Museology:
 
 Bennett, Tony. 
-	2014   Museums, Nations, Empires, Religions. In _National Museums and Nation-Building in Europe 1750–2010_, 1st ed., editors Peter Aronsson and Gabriella                 Elgenius, pp. 66–86. Routledge, London. [https://doi.org/10.4324/9781315737133-5](https://doi.org/10.4324/9781315737133-5).
+	2014   Museums, Nations, Empires, Religions. In _National Museums and Nation-Building in Europe 1750–2010_, 1st ed., editors Peter Aronsson and Gabriella                 Elgenius, pp. 66–86. Routledge, London. 
 
 Gazi, Andromache. 
 	2011   National Museums in Greece: History, Ideology, Narratives. In *Building National Museums in Europe 1750-2010.* Conference proceedings from EuNaMus,               European National Museums: Identity Politics, the Uses of the Past and the European Citizen, Bologna 28-30 April 2011, editors Peter Aronsson & Gabriella                 Elgenius, pp. 363-39. Linköping University Electronic Press. 
 
 German, Senta, and Jim Harris. 
-	2017   Agile Objects. _Journal of Museum Education_ 42(3): 248–57. [https://doi.org/10.1080/10598650.2017.1336369](https://doi.org/10.1080/10598650.2017.1336369).
+	2017   Agile Objects. _Journal of Museum Education_ 42(3): 248–57. 
 
 Dubinsky, Lon and Del Muise 
 	2016   Museums as In-Between Institutions: Can They Be Trusted? In *Museums and the Past: Constructing Historical Consciousness*, editors Viviane Gosselin and           Phaedra J. Livingstone, pp. 142-161. UBC Press, Vancouver. 
@@ -185,8 +185,8 @@ Pieterse, Jan Nederveen.
 	1997   Multiculturalism and Museums: Discourse about Others in the Age of Globalization. *Theory, Culture & Society* 14(4): 123–46.
 
 Pitts, Phillippa. 
-	2018   Visitor to Visitor Learning: Setting up Open-Ended Inquiry in an Unstaffed Space. _Journal of Museum Education_ 43(4): 306–15. [https://doi.org/10.1080/10598650.2018.1522127](https://doi.org/10.1080/10598650.2018.1522127).
-
+	2018   Visitor to Visitor Learning: Setting up Open-Ended Inquiry in an Unstaffed Space. _Journal of Museum Education_ 43(4): 306–15. 
+	
 Pye, Elizabeth. 
 	2016   *The Power of Touch : Handling Objects in Museum and Heritage Contexts*. Routledge, London.
 
@@ -197,40 +197,39 @@ Staiff, Russell.
 	2014 *Re-Imagining Heritage Interpretation: Enchanting the Past-Future*. Ashgate Publishing, Farnham, Surrey, England. 
 
 Zinn, Emily. 
-	2022   Please Touch the Artifacts: Education and Collections Departments Co-Design an Exhibit for Family Audiences to Practice Primary Source Inquiry. _Journal           of Museum Education_ 47(3): 353–65. [https://doi.org/10.1080/10598650.2022.2069217](https://doi.org/10.1080/10598650.2022.2069217).
+	2022   Please Touch the Artifacts: Education and Collections Departments Co-Design an Exhibit for Family Audiences to Practice Primary Source Inquiry. _Journal           of Museum Education_ 47(3): 353–65. 
 
 
 ### Cultural Heritage, Cultural Property, and Ethics. 
 
 Appiah, Kwame Anthony. 
-	2010   Whose Culture Is It, Anyway? In _Cultural Heritage Issues_, editors James A.R. Nafziger and Ann M. Nicgorski, pp. 207-221. Brill Leiden. [https://doi.org/10.1163/ej.9789004160361.i-466.66](https://doi.org/10.1163/ej.9789004160361.i-466.66).
+	2010   Whose Culture Is It, Anyway? In _Cultural Heritage Issues_, editors James A.R. Nafziger and Ann M. Nicgorski, pp. 207-221. Brill Leiden. 
 
 Cuno, James. 
 	2009   *Whose Culture? The Promise of Museums and the Debate over Antiquities*. Princeton University Press, Princeton.
 	2010   _Who Owns Antiquity?Museums and the Battle over Our Ancient Heritage_. Princeton University Press, Princeton.
 
 Kamel-Ahmed, Ehab. 
-	2015   What to Conserve? Heritage, Memory, and Management of Meanings. _International Journal of Architectural Research: ArchNet-IJAR_ 9(1): 67-76. [https://doi.org/10.26687/archnet-ijar.v9i1.469](https://doi.org/10.26687/archnet-ijar.v9i1.469).
+	2015   What to Conserve? Heritage, Memory, and Management of Meanings. _International Journal of Architectural Research: ArchNet-IJAR_ 9(1): 67-76. 
 
 Sayles, Wayne G, and David Welsh.
 	2010   _Coin Collectors and Cultural Property Nationalism_. 
 
 Topçuoǧlu, Oya, and Tasha Vorderstrasse. 
-	2019   Small Finds, Big Values: Cylinder Seals and Coins from Iraq and Syria on the Online Market. _International Journal of Cultural Property_ 26(3): 239–63. [https://doi.org/10.1017/S0940739119000213](https://doi.org/10.1017/S0940739119000213).
-
+	2019   Small Finds, Big Values: Cylinder Seals and Coins from Iraq and Syria on the Online Market. _International Journal of Cultural Property_ 26(3): 239–63. 
 ---
 ## Digital Humanities:
 
 ### Digital Enchantment:
 
 Graham, Shawn. 
-	2020   _An Enchantment of Digital Archaeology: Raising the Dead with Agent-Based Models, Archaeogaming and Artificial Intelligence_. 1st ed. Berghahn Books, New         York. [https://doi.org/10.3167/gra7866](https://doi.org/10.3167/gra7866)
+	2020   _An Enchantment of Digital Archaeology: Raising the Dead with Agent-Based Models, Archaeogaming and Artificial Intelligence_. 1st ed. Berghahn Books, New         York. 
 	
 Perry, Sara. 
-	2019   The Enchantment of the Archaeological Record. _European Journal of Archaeology_ 22(3): 354–71. [https://doi.org/10.1017/eaa.2019.24](https://doi.org/10.1017/eaa.2019.24)
+	2019   The Enchantment of the Archaeological Record. _European Journal of Archaeology_ 22(3): 354–71.
 	
 Sopracasa, Alessio, Martina Filosa, and Simona Stoyanova. 
-	2020   The Digital Enhancement of a Discipline Byzantine Sigillography and Digital Humanities: Byzantine Sigillography and Digital Humanities. _Magazén_, (1):           101-128. [https://doi.org/10.30687/mag//2020/01/006](https://doi.org/10.30687/mag//2020/01/006)
+	2020   The Digital Enhancement of a Discipline Byzantine Sigillography and Digital Humanities: Byzantine Sigillography and Digital Humanities. _Magazén_, (1):           101-128. 
 
 ### Digital Methods and Theory:
 
@@ -241,7 +240,7 @@ Bordalejo, Barbara, and Roopika Risam, eds.
 	2019   *Intersectionality in Digital Humanities*. Arc Humanities Press, Leeds.
 
 Risam, Roopika. 
-	2019   _New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy_. Northwestern University Press, Evanston, Illinois. https://doi.org/10.2307/j.ctv7tq4hg.  
+	2019   _New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy_. Northwestern University Press, Evanston, Illinois.   
 
 Roddick, Andy.
 	2022   _From Info-Glut to Connected Notes: Obsidian and Digital Note-Taking in Academia_ DMDS Workshops. [Obsidian and Digital-Note Taking in Academia](https://scds.github.io/dmds-22-23/Obsidian.html)
@@ -249,26 +248,26 @@ Roddick, Andy.
 ### Collecting, Documenting and Visualizing  Digital Data:
 
 Ahnert, Ruth, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart. 
-	2020   _The Network Turn: Changing Perspectives in the Humanities_. 1st ed. Cambridge University Press, Cambridge. [https://doi.org/10.1017/9781108866804](https://doi.org/10.1017/9781108866804)
-
+	2020   _The Network Turn: Changing Perspectives in the Humanities_. 1st ed. Cambridge University Press, Cambridge. 
+	
 Bonacchi, Chiara. 
-	2022   _Heritage and Nationalism: Understanding Populism through Big Data_ UCL Press, 2022. [https://doi.org/10.2307/j.ctv1wdvx2p](https://doi.org/10.2307/j.ctv1wdvx2p).
+	2022   _Heritage and Nationalism: Understanding Populism through Big Data_ UCL Press, 2022. 
 
 Bond, Sarah E., Paul Dilley, and Ryan Horne. 
-	2021   Introducing the Semantic Web and Linked Open Data. In _Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects_, editors Sarah E. Bond, Paul Dilley, and Ryan Horne, eds. 2021. ISAW Papers 20. [http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-1/](http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-1/).
+	2021   Introducing the Semantic Web and Linked Open Data. In _Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects_, editors Sarah E.         Bond, Paul Dilley, and Ryan Horne, eds. 2021. ISAW Papers 20. [http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-1/](http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-1/).
 
 Brughmans, Tom, Anna Collar, and Fiona Susan Coward. 
-	2016   *The Connected Past: Challenges to Network Studies in Archaeology and History,* editors Tim Brughmans, Anna Collar, and Fiona Susan Coward. First edition.  Oxford University Press, Oxford.
+	2016   *The Connected Past: Challenges to Network Studies in Archaeology and History,* editors Tim Brughmans, Anna Collar, and Fiona Susan Coward. First edition.         Oxford University Press, Oxford.
 
 Collar, Anna, Fiona Coward, Tom Brughmans, and Barbara J. Mills. 
-	2015   Networks in Archaeology: Phenomena, Abstraction, Representation. _Journal of Archaeological Method and Theory_ 22(1): 1–32. [https://doi.org/10.1007/s10816-014-9235-6](https://doi.org/10.1007/s10816-014-9235-6).
+	2015   Networks in Archaeology: Phenomena, Abstraction, Representation. _Journal of Archaeological Method and Theory_ 22(1): 1–32. 
 
 Faniel, I., A. Austin, E. Kansa, S. Whitcher Kansa, P. France, J. Jacobs, R. Boytner and E. Yakel 
-	2018   Beyond the Archive: Bridging Data Creation and Reuse in Archaeology. _Advances in Archaeological Practice_, 6(2):105-116. [DOI: 10.1017/aap.2018.2](https://doi.org/10.1017/aap.2018.2) 
+	2018   Beyond the Archive: Bridging Data Creation and Reuse in Archaeology. _Advances in Archaeological Practice_, 6(2):105-116. 
 
 Gortana, Flavio, Franziska von Tenspolde, Daniela Guhlmann, and Marian Dörk. 
-	2018   Off the Grid: Visualizing a Numismatic Collection as Dynamic Piles and Streams. _Open Library of Humanities_ 4(2): 30, 1-25. [https://doi.org/10.16995/olh.280](https://doi.org/10.16995/olh.280). 
-
+	2018   Off the Grid: Visualizing a Numismatic Collection as Dynamic Piles and Streams. _Open Library of Humanities_ 4(2): 30, 1-25. 
+	
 Gruber, Ethan, and Andrew Meadows. 
 	2021   Numismatics and Linked Open Data. In  _Linked Open Data for the Ancient Mediterranean: Structures, Practices, Prospects_. ISAW Papers 20, editors Sarah E.         Bond, Paul Dilley, and Ryan Horne. http://dlib.nyu.edu/awdl/isaw/isaw-papers/20-6/
 
@@ -276,11 +275,11 @@ Hess, Mona, Lindsay W MacDonald, and Jaroslav Valach.
 	2018   Application of Multi-Modal 2D and 3D Imaging and Analytical Techniques to Document and Examine Coins on the Example of Two Roman Silver Denarii. *Heritage         science* 6(1): 1–22. 
 
 Huggett, Jeremy. 
-	2020   Capturing the Silences in Digital Archaeological Knowledge _Information_ 11(5), art. 278. [https://doi.org/10.3390/info11050278](https://doi.org/10.3390/info11050278).
-	2020   Is Big Digital Data Different? Towards a New Archaeological Paradigm, _Journal of Field Archaeology_, (45): S8–S17. [https://doi.org/10.1080/00934690.2020.1713281](https://doi.org/10.1080/00934690.2020.1713281)
+	2020   Capturing the Silences in Digital Archaeological Knowledge _Information_ 11(5), art. 278.
+	2020   Is Big Digital Data Different? Towards a New Archaeological Paradigm, _Journal of Field Archaeology_, (45): S8–S17. 
 
 Kansa, Eric C., and Sarah Whitcher Kansa. 
-	2022   Promoting Data Quality and Reuse in Archaeology through Collaborative Identifier Practices. _Proceedings of the National Academy of Sciences_. 119(43) e2109313118. [https://doi.org/10.1073/pnas.2109313118](https://doi.org/10.1073/pnas.2109313118).
+	2022   Promoting Data Quality and Reuse in Archaeology through Collaborative Identifier Practices. _Proceedings of the National Academy of Sciences_. 119(43) e2109313118. 
 
 Turner, Hannah.   
 	2020.   _Cataloguing Culture: Legacies of Colonialism in Museum Documentation_. UBC Press, Vancouver.
@@ -295,10 +294,10 @@ Jarrett, Jonathan.
 	2009   Digitizing Numismatics: Getting the Fitzwilliam Museum’s Coins to the World Wide Web. *The heroic age*, (12).
 
 Heath, Sebastian, ed. 
-	2020   _DATAM: Digital Approaches to Teaching the Ancient Mediterranean_. The Digital Press at the University of North Dakota. [https://doi.org/10.31356/dpb016](https://doi.org/10.31356/dpb016).
+	2020   _DATAM: Digital Approaches to Teaching the Ancient Mediterranean_. The Digital Press at the University of North Dakota. 
 
 Palma, Gianpaolo, Monica Baldassari, Maria Chiara Favilla, and Roberto Scopigno, 
-	2014   Storytelling of a Coin Collection by Means of RTI Images: the Case of the Simoneschi Collection in Palazzo Blu. In _Archaeology in the Digital Era: Papers         from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA), Southampton, 26-29 March 2012_, editors Graeme Earl, Tim         Sly, Angeliki Chrysanthi, Patricia Murrieta-Flores, Constantinos Papadopoulos, Iza Romanowska, and David Wheatley, pp. 177-185. Amsterdam University Press.               Amsterdam.  [https://doi.org/10.2307/j.ctt6wp7kg](https://doi.org/10.2307/j.ctt6wp7kg).
+	2014   Storytelling of a Coin Collection by Means of RTI Images: the Case of the Simoneschi Collection in Palazzo Blu. In _Archaeology in the Digital Era: Papers         from the 40th Annual Conference of Computer Applications and Quantitative Methods in Archaeology (CAA), Southampton, 26-29 March 2012_, editors Graeme Earl, Tim         Sly, Angeliki Chrysanthi, Patricia Murrieta-Flores, Constantinos Papadopoulos, Iza Romanowska, and David Wheatley, pp. 177-185. Amsterdam University Press.               Amsterdam. 
 
 Shannahan, John. 
 	2020   How Can We Engage Students with Digital Objects? A Numismatic Case Study. *The Classical world* 113(4): 465–482.
