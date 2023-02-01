@@ -1,5 +1,4 @@
-## Course Overview:
----
+
 ### Course Description: 
 
 This is a course about the power of narrative, knowledge creation, and the digital methods used to facilitate such endeavours to create enchantment around the archaeology of the Byzantine (Eastern Roman) Empire within the public sphere. Specifically, we will explore how narrative and knowledge is constructed around Byzantine coins from excavation to exhibition, and how museums use these coins to represent Byzantine history and identity for public consumption. The central question I want to explore in this course is: How can we make Byzantine coins more accessible and enchanting for the public?  I want us to explore this question by integrating digital methods into our analysis. However, you may be asking, why bother going through all this effort to make Byzantine coins more engaging, accessible and enchanting? A coin is a coin, right?
