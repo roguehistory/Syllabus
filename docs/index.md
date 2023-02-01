@@ -4,6 +4,8 @@
 
 Creating Digital Enchantments for Byzantine Archaeology & Numismatics in Public History.
 
+![[CoinHoard.jpg]]
+
 
 ### An Instructor's Brief Anecdote:
 
