@@ -1,0 +1,7 @@
+### Final Assessment:
+
+Your final project is to create a visual narrative about an assemblage of coins that enchanted you. This project is a team project meant to simulate preparing a virtual exhibition. Each group will select six coins (that's two coins per person) to present in their virtual exhibit. You will also collaborate with the other groups to ensure no one is presenting the same coins (I will create a sheet for you to record which coins you have selected). We will be utilizing [Mural](https://www.getmural.io/docs/intro/) to create our final project. You will utilize the tutorials, Obsidian vault, and discussions to inform your final project. You will present your Mural project via the internet, which will count as your group presentation component for grading purposes. Further details are to be discussed in class. 
+
+### Addendum:
+
+Do you and your group have an idea for a different final project you would like to explore rather than Mural? Awesome! Pitch it to me. I am open to allowing alternative projects for this class. Nothing is really set in stone. It's *Digital* and malleable. **However**, alternative projects need to be proposed to me by **week seven**. This is to ensure that your group has formulated a plan and knows your goals in order to maximize the tutorial in week eight.
