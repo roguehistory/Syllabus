@@ -4,7 +4,7 @@
 ## Creating Digital Enchantments for Byzantine Archaeology & Numismatics in Public History.
 
 ![[CoinHoard.jpeg]]
-
+Photo: Scott Coleman, 2022. 
 
 ### An Instructor's Brief Anecdote:
 
