@@ -1,6 +1,6 @@
 # HIST 4XXX
 
-![[CoinBanner.jpeg]]
+![[CoinHoard.jpg]]
 
 ## Welcome
 
