@@ -2,7 +2,7 @@
 
 Publish your public notes with MkDocs
 
-## Hello World!
+## Welcome to HIST 4XXX: Creating Digital Enchantments for Byzantine Archaeology & Numismatics in Public History.!
 
 The `index.md` in the `/docs` folder is the homepage you see here.
 
