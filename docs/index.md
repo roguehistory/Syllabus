@@ -1,8 +1,6 @@
-# Obsidian Notes
+# HIST 4XXX
 
-Publish your public notes with MkDocs
-
-## Welcome to HIST 4XXX: Creating Digital Enchantments for Byzantine Archaeology & Numismatics in Public History.
+## Welcome to Creating Digital Enchantments for Byzantine Archaeology & Numismatics in Public History.
 
 ### An Instructor's Brief Anecdote:
 
