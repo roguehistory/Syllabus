@@ -110,15 +110,9 @@ Type: Syllabus
 #### Digital Tools:
 
 - [Mural](https://www.getmural.io/) (Manditory)
-- 
--  [Programming Historian](https://programminghistorian.org/)(Tutorials)
--  
-- - [Obsidian](https://obsidian.md/) (mandatory)
-- 
+- [Programming Historian](https://programminghistorian.org/)(Tutorials)
+- [Obsidian](https://obsidian.md/) (mandatory)
 - [Hypothesis](https://web.hypothes.is/) (Optional)
-- 
 - [Zotero](https://www.zotero.org/) (Optional)
-- 
 - [Sketchfab](https://sketchfab.com/)
-- 
 - [Global Digital Heritage](https://globaldigitalheritage.org/)
