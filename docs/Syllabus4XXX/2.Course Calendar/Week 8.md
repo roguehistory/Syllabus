@@ -9,15 +9,20 @@ Reflecting on what we have learned thus far, this week, we will explore online n
 Using Google sheets, each student will document fifteen coins from the fourth to the fifteenth centuries and think about what data/evidence is or is not "significant" in order to support your research question for your final project. This tutorial is about the **PROCESS** of utilizing what you have learned to this point and critically thinking through your research questions and how to assess online/digital databases. You will need to create a data set of fifteen coins to be used by you and your classmates, so think carefully about how you record and label your data. Furthermore, you will need to document your thinking, processes and reasoning for choosing the data you selected via the [[Process Note]] template. Be as detailed and concise as possible. Think about why you choose particular identifiers to describe the coins. Refer to this weeks readings and how the author's discuss capturing and documenting data. I have provided four websites for you to draw from. Remember to cite the sources and use hyperlinks to link your data to appropriate sites. Don't stress; we will work through the processes together during both classes. 
 
 [WildWinds.com](https://www.wildwinds.com/) 
+
 [Nomisma](http://nomisma.org/) 
+
 [American Numismatic Society](https://numismatics.org/collections/) 
 
 #### Google Sheets Tutorials:
 Below are four videos I have used to learn some of Google Sheets functionality. Some discuss basic functionality while others demonstrate more complex formulas. You may have better resources then these, and if you do, please share them with the class via our Obsidian vault in the Resource file. Place the hashtag #GoogleSheets  and your initials #SC next to the resource/links you provided. 
 
 [Google Sheets Tutorial for Beginners 🔥 - YouTube](https://www.youtube.com/watch?v=FIkZ1sPmKNw)
+
 [Quick Data Analysis with Google Sheets | Part 1 - YouTube](https://www.youtube.com/watch?v=Y8jhi_yZKOg&t=1s)
+
 [Introduction to Formulas in Google Sheets | Part 2 - YouTube](https://www.youtube.com/watch?v=YXLXXSXhQqo&t=1s)
+
 [Google Sheets Beginner Tutorial - YouTube](https://www.youtube.com/watch?v=_UWPaPer1MY&t=1s)
 
 #### Readings:
