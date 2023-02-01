@@ -23,8 +23,11 @@ Stouraitis, Ioannis. 2014   Roman Identity in Byzantium: A Critical Approach. _B
 
 #### Museum Case Study Links:
 [Acropolis Museum](https://www.theacropolismuseum.gr/en/)
+
 [Byzantine and Christian Museum:](https://www.byzantinemuseum.gr/en/)
+
 [Museum of Byzantine Culture (Thessaloniki):](https://mbp.gr/en)
+
 [Numismatic Museum of Athens:](https://www.nummus.gr/en/)
 
 #### Discussion:
