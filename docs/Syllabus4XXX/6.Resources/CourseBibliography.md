@@ -74,7 +74,6 @@ Caraher, William.
 
 Curta, Florin. 
 	2017   Coins, Forts and Commercial Exchanges in the Sixth- and Early Seventh-Century Balkans._Oxford Journal of Archaeology_ 36(4): 439–54. [https://doi.org/10.1111/ojoa.12123](https://doi.org/10.1111/ojoa.12123).
-	
 	2021   Ethnicity, Archaeology and Nationalism: Remarks on the Current State of Research. _Annales Universitatis Apulensis Series Historica_ 25(1): 227–42. [https://doi.org/10.29302/auash.2021.25.1.11](https://doi.org/10.29302/auash.2021.25.1.11).
 	
 Gândilă, Andrei. 
@@ -88,9 +87,7 @@ Grierson, Philip.
 
 Hamilakis, Yannis. 
 	2015   *Archaeology and the Senses. Human Experiences, Memory, and Affect.* Cambridge University Press, New York.
-	
 	2016   From Ethics to Politics. In  *Archaeology and Capitalism: from Ethics to Politics,* editors. Duke, P. G., and Yannis Hamilakis, pp. 15-40. Routledge,             London.  
-	
 	2017   Sensorial Assemblages: Affect, Memory and Temporality in Assemblage Thinking. _Cambridge Archaeological Journal_ 27(1): 169–82. 
 
 Myrberg, N.
@@ -101,7 +98,6 @@ Kemmers, Fleur, and Nanouschka Myrberg.
 
 Lockyear, Kris. 
 	2007   Where Do We Go From Here? Recording and Analysing Roman Coins from Archaeological Excavations. _Britannia_ 38: 211–24.  [https://doi.org/10.3815/000000007784016494](https://doi.org/10.3815/000000007784016494).
-	
 	2012   Dating Coins, Dating with Coins. _Oxford Journal of Archaeology_ 31(2): 191–211. [https://doi.org/10.1111/j.1468-0092.2012.00385.x](https://doi.org/10.1111/j.1468-0092.2012.00385.x).
 
 Motta, Rosa Maria. 
@@ -132,9 +128,7 @@ Stewart, Michael Edward, David Alan Parnell, and Conor Whately.
 
 Stouraitis, Yannis. 
 	2014   Roman Identity in Byzantium: A Critical Approach. _Byzantinische Zeitschrift_ 107 (1): 175-220  [https://doi.org/10.1515/bz-2014-0009](https://doi.org/10.1515/bz-2014-0009)
-	
 	2017   Reinventing Roman Ethnicity in High and Late Medieval Byzantium. _Medieval Worlds_, Comparative Studies on Medieval Europe, 5, editors Walter Pohl and Andre Gingrich, pp. 70-94. ÖAW, Vienna. 
-	
 	2022   Is Byzantinism an Orientalism? Reflections on Byzantium’s constructed identities and debated ideologies. In _Identities and Ideologies in the Medieval East Roman World_, editor Yannis Stouraitis, pp. 19-47. Edinburgh University Press, Edinburgh. 
 
 
@@ -213,7 +207,6 @@ Appiah, Kwame Anthony.
 
 Cuno, James. 
 	2009   *Whose Culture? The Promise of Museums and the Debate over Antiquities*. Princeton University Press, Princeton.
-	
 	2010   _Who Owns Antiquity?Museums and the Battle over Our Ancient Heritage_. Princeton University Press, Princeton.
 
 Kamel-Ahmed, Ehab. 
@@ -284,7 +277,6 @@ Hess, Mona, Lindsay W MacDonald, and Jaroslav Valach.
 
 Huggett, Jeremy. 
 	2020   Capturing the Silences in Digital Archaeological Knowledge _Information_ 11(5), art. 278. [https://doi.org/10.3390/info11050278](https://doi.org/10.3390/info11050278).
-	
 	2020   Is Big Digital Data Different? Towards a New Archaeological Paradigm, _Journal of Field Archaeology_, (45): S8–S17. [https://doi.org/10.1080/00934690.2020.1713281](https://doi.org/10.1080/00934690.2020.1713281)
 
 Kansa, Eric C., and Sarah Whitcher Kansa. 
