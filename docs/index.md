@@ -1,7 +1,6 @@
 # HIST 4XXX
 
 ## Welcome to:
-
 ## Creating Digital Enchantments for Byzantine Archaeology & Numismatics in Public History.
 
 ![[CoinHoard.jpeg]]
