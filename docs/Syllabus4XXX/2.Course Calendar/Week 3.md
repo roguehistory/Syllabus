@@ -1,6 +1,6 @@
 ### Situating Byzantium:  
 
-#### Creating Byzantium in the 19th century. ( Tuesday, January 24th, 2023) 
+#### Creating Byzantium in the 19th century.
 
 In short, the Byzantines were Romans (Romaioi) who lived within the ever-fluctuating borders of the Eastern Roman Empire (_Rhōmania_ or Romanland). This is an oversimplified answer, of course. Thus, in week three, our objective is to situate how the labels "Byzantium" and "Byzantine" came into common usage in modern scholarship and the effects on how scholars study medieval Roman identity. In other words, what do we mean when we use the labels Byzantium and Byzantine? What impact do these terms have on our historical and archaeological understandings of the Eastern Roman Empire? We first discuss why the discipline was invented (Aschenbrenner and Ransohoff, 2021) and the possible impacts the discipline's formation had on public understanding of Roman history. We also explore Shephard (2019), Bintliff (2012) and Bellinger (1966) and how historians, archaeologists and numismatists, respectively, periodize Roman history from Byzantine history.  This week's podcast is meant to supplement the inconsistencies in how Byzantine history is periodized.
 
