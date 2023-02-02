@@ -1,6 +1,6 @@
-![[CoinHoard.jpeg]]
 
-### Introductions:
+# Introductions:
+![[CoinHoard.jpeg]]
 
 #### Course Introduction 
 
