@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Creating Digital Enchantments for Byzantine Archaeology & Numismatics in Public History
 
 theme:
     name: 'material'
@@ -16,7 +16,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
+      primary: green
       accent: blue
       toggle:
         icon: material/toggle-switch
