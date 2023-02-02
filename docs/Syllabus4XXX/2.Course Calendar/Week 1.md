@@ -8,7 +8,7 @@ We will review the course's overarching themes, objectives, and goals on our fir
 
 - No Readings.
 
-### Obsidian: What is it? 
+### **Obsidian: What is it?** 
 
 In our first full class of the semester, we will explore *Obsidian.md*, a program which can be run on Windows, Mac OS, Linux, and more. I will show you how to install it onto your computer (it's free) and provide a tutorial on its basic functionality. The program uses Markdown (md) language for note-taking and stores files locally on your computer with the option to sync through cloud services (*We will use Dropbox and other free services. I will not force you to purchase services*). Think of Obsidian as your second brain to store your thoughts, ideas, and inspirations. We will use Obsidian to develop notes together and independently and generate weekly discussions amongst our peers. By the end of the term, my goal is for us to have a significant repository of notes compiled that will allow you to think critically and creatively and inform your final project. We will explore the Zettlekasten system (Atomic notes), and what backlinks and outgoing links can do for your note creation. We will also discuss strategic reading and note-taking. 
 
