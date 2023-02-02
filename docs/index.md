@@ -1,7 +1,5 @@
-# HIST 4XXX
 
-## Welcome to:
-## Creating Digital Enchantments for Byzantine Archaeology & Numismatics in Public History.
+# Welcome to Hist4XXX
 
 ![[CoinHoard.jpeg]]
 Photo: Scott Coleman, 2022. 
