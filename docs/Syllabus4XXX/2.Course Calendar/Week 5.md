@@ -1,8 +1,9 @@
+# Byzantine Archaeology and Numismatics.
+
 ![[coindisplay.jpeg]]
 
-### Byzantine Archaeology and Numismatics.
-
 #### Numismatics and Archaeology.
+
 We begin with an overview of the basic terminologies and methods in archaeology and numismatics. Our first reading, Philip Grierson's *Byzantine Coinage*, is meant to supplement our discussion on terminologies, typologies and methods and demonstrate how coins have been traditionally studied. I don't expect you to read the whole book (think back to our strategic reading and note-taking discussion). Instead, we will pay particular attention to and discuss these methodological approaches' possible effects on constructing historical narratives with coins. Kris Lockyear notes that there is a "remarkable lack of standardisation (sic), both in the cataloguing of the finds and in their analysis" (Lockyear 2007). Considering Lockyear's comment, how does the lack of standardization impact how coins are identified, dated, and used for dating archaeological sites? Is it enough to catalogue coins in separate analyses? What are the consequences of the isolated studies of numismatic evidence from other material cultures recovered from archaeological sites? We will consider Dr. Tine Rassalle's approach to the analysis of coins collected from synagogues in Israel against Grierson and Lockyear's methods in order to contextualize the evolving methodologies and how this data can be transferred into meaningful and engaging narratives for public consumption (Rassalle 2021). Lastly, in Fleur Kemmers and Nanouschka Myrberg's *Rethinking Numismatics* (A personal favourite), the authors demonstrate that coins are more than just mediums for typology, periodization, and tools for dating archaeological sites. They present an argument for coin agency, which is imposed onto the coin by the individual studying it (research questions, educational background or how they are trained) and, more importantly, how a coin has an agency which affects the "person" who is in possession of a coin.
 
 #### Readings:
