@@ -1,4 +1,3 @@
-
 # Week Two
 # Performing Academic, Public, and Digital History: 
 ![[SS_CanvasSample.png]]
