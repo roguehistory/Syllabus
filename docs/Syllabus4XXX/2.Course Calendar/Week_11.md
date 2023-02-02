@@ -1,3 +1,4 @@
+# Week Eleven
 # Digitizing Enchantment, Engagement and Coins:
 
 #### Visualizing Digital Enchantment. 
