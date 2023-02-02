@@ -1,7 +1,9 @@
 # Week Seven
 # Inserting Byzantium into National Narrative: A Greek Case Study.
 
-#### Situating Byzantium into Greek National Narratives
+![[StoaOfAttalos.jpeg]]
+
+### Situating Byzantium into Greek National Narratives
 
 In 19th-century Greece, Byzantium was used to form a link to the classical *Hellenes* by constructing a medieval Hellenism to supplement this link. In turn, the manipulation of these historical narratives creates problems surrounding Roman identity and how we approach and study the construction of ancient identities as a whole. This week we focus on where Byzantine archaeology and history are performed, represented and presented to the public in nationally operated and funded institutions.  We draw from the themes we teased out from the previous class to assess the development of national museums in Greece and the insertion of "Byzantine" narratives into these public spaces. We begin by asking if archaeologists can objectively research ancient identities when funded by national organizations and institutions (Curta 2021). We follow with a discussion on "The Colonial Origins of National Archaeologies" and how a Greek national identity was formed, the effect this had on public perception of the past, and how this "resurrection" and the "rebirth of Hellas" (Greenberg and Hamilakis 2022), informed Greek national discourse which utilized Byzantium to link ancient Greek identities to modern Greece (Christodoulou 2012).  Finally, we apply the themes to Andromache's (2011) ‘National Museums in Greece: History, Ideology, Narratives’, and discuss the implications of the label "medieval Hellenism" and state management of the museum had on the presentation of Byzantium in the Byzantine and Christian museum. 
 
@@ -15,7 +17,7 @@ Gazi, Andromache. 2011   National Museums in Greece: History, Ideology, Narrativ
 
 Despina Christodoulou. 2012   Byzantium in Nineteenth-Century Greek Historiography. In *The Byzantine World*, editor Paul Stephenso, pp. 445-461.  Routledge, London; New York.
 
-#### Byzantium's Substance: A Debate Class.
+### Byzantium's Substance: A Debate Class.
 
 For this class, listen to the assigned podcast and watch the speaker series, and prepare notes for a class debate on the "substance" of the term(s) Byzantine/Byzantium. During the class debate, you are to take notes and use these to inform your group's mind-map and discussion post. At the end of the class you will convene with your group and come to an agreement of whether to keep the label Byzantine/Byzantium for your final project or change the name. You do not need to have a new label/term by the end of class. Our objective is to critically asses how you want to present your final project to a digital public and with the goal to come to a group consensus about how to address the terminology for your final project. Like many group projects, and exhibitions, you may need to compromise on a position or idea to ensure the final project is delivered. 
 
