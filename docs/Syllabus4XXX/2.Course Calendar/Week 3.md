@@ -1,4 +1,5 @@
 
+# Week Three
 # Situating Byzantium:  
 ![[trench.jpeg]]
 
