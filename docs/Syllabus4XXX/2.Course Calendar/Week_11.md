@@ -1,4 +1,4 @@
-### Digitizing Enchantment, Engagement and Coins:
+# Digitizing Enchantment, Engagement and Coins:
 
 #### Visualizing Digital Enchantment. 
 
