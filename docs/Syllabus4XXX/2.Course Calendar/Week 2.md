@@ -1,6 +1,7 @@
-![[CoinHoard.jpeg]]
 
-### Performing Academic, Public, and Digital History: 
+# Performing Academic, Public, and Digital History: 
+![[SS_CanvasSample.jpeg]]
+
 
 Before we can address the issues surrounding the enchantment of Byzantine archaeology and coins in the public sphere (museums, public media, books, podcasts, and the internet), we first need to explore what academic history, public history and the digital humanities are and where they are performed. I doing so, the goal is inform our exploration of enchantment and how we can create digital enchantment around Byzantine coins. Therefore, for our first class this week, we will explore the questions: What is academic history, public history and digital humanities (DH) and what are the differences between these fields? Is academic history a public history or vice versa? How does digital humanities contribute to these fields? Can digital humanities provide a deeper knowledge of the past? 
 
