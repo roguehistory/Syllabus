@@ -1,3 +1,4 @@
+# Week Seven
 # Inserting Byzantium into National Narrative: A Greek Case Study.
 
 #### Situating Byzantium into Greek National Narratives
