@@ -1,5 +1,5 @@
 
-## Week One: Introduction.
+# Introduction.
 ![[CoinHoard.jpeg]]
 
 #### Course Introduction 
