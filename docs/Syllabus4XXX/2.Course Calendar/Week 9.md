@@ -1,4 +1,4 @@
-### Moving Past Byzantium: Museums, Coins and Exhibition
+# Moving Past Byzantium: Museums, Coins and Exhibition
 
 #### The Enchantment of Museums? 
 
