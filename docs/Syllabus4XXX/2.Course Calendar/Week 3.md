@@ -1,4 +1,4 @@
-![[coindisplay]]
+![[coindisplay.jpeg]]
 
 ### Situating Byzantium:  
 
