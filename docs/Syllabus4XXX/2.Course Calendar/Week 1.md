@@ -1,3 +1,6 @@
+![[CoinHoard.jpg]]
+
+
 ### Introductions:
 
 #### Course Introduction 
