@@ -1,3 +1,5 @@
+![[coindisplay.jpeg]]
+
 ### Byzantine Archaeology and Numismatics.
 
 #### Numismatics and Archaeology.
