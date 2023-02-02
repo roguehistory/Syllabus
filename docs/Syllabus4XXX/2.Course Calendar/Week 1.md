@@ -1,4 +1,4 @@
-![[CoinHoard]](https://github.com/roguehistory/Syllabus/blob/94ad638487be2e56df4065d2f728ffea5acf4b47/docs/Images/CoinHoard.jpeg)
+![[CoinHoard]]
 
 ### Introductions:
 
