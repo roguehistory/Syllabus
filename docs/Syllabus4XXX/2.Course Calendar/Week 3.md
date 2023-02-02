@@ -1,3 +1,5 @@
+![[coindisplay]]
+
 ### Situating Byzantium:  
 
 #### Creating Byzantium in the 19th century.
