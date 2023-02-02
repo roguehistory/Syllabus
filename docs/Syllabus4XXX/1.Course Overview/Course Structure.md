@@ -1,4 +1,6 @@
-### Course Structure: 
+## Course Structure: 
+
+![[StoaOfAttalos.jpeg]]
 
 First, the course is designed as an intensive seminar course in order to promote intimate debate and dialogues between individuals and small working groups. Registration has been limited to nine students to facilitate three groups of three students in order to promote collaboration for the entirety of the course. The course was developed to simulate how archaeological and curatorial practices are accomplished in a variety of collaborate environments. Each week, students are expected to come prepared to class and participate in discussions about the assigned readings and podcasts. These class discussions are meant to support and stimulate students in their weekly discussion post contributions.  Week one provides a general introduction to the course, with an overview of course's overarching themes, objectives, goals and assessments. We will discuss and begin to apply *Obsidian.md*, a note taking manager (details provided in week one's overview), to our course objectives.
 
