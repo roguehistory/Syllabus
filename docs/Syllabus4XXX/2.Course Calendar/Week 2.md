@@ -28,7 +28,7 @@ Risam, Roopika. 2019   _New Digital Worlds: Postcolonial Digital Humanities in T
 
 
 #### Podcast:
-Byzantium and Friends:  [Digital humanities and Byzantium, with Kuba Kabala](https://byzantiumandfriends.podbean.com/e/23-digital-humanities-and-byzantium-with-kuba-kabala/) a
+Byzantium and Friends:  [Digital humanities and Byzantium, with Kuba Kabala](https://byzantiumandfriends.podbean.com/e/23-digital-humanities-and-byzantium-with-kuba-kabala/)
 
 #### Discussion:
 
