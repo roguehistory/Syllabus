@@ -1,6 +1,6 @@
-![[trench.jpeg]]
 
-### Situating Byzantium:  
+# Situating Byzantium:  
+![[trench.jpeg]]
 
 #### Creating Byzantium in the 19th century.
 
