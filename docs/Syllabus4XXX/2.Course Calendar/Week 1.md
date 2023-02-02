@@ -1,4 +1,3 @@
-
 # Week One
 # Introduction.
 ![[CoinHoard.jpeg]]
