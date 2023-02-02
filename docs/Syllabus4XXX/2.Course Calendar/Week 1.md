@@ -1,5 +1,3 @@
-![[CoinHoard.jpeg]]
-
 
 ### Introductions:
 
@@ -10,12 +8,14 @@ We will review the course's overarching themes, objectives, and goals on our fir
 - No Readings.
 
 #### Obsidian: What is it? 
+
 In our first full class of the semester, we will explore *Obsidian.md*, a program which can be run on Windows, Mac OS, Linux, and more. I will show you how to install it onto your computer (it's free) and provide a tutorial on its basic functionality. The program uses Markdown (md) language for note-taking and stores files locally on your computer with the option to sync through cloud services (*We will use Dropbox and other free services. I will not force you to purchase services*). Think of Obsidian as your second brain to store your thoughts, ideas, and inspirations. We will use Obsidian to develop notes together and independently and generate weekly discussions amongst our peers. By the end of the term, my goal is for us to have a significant repository of notes compiled that will allow you to think critically and creatively and inform your final project. We will explore the Zettlekasten system (Atomic notes), and what backlinks and outgoing links can do for your note creation. We will also discuss strategic reading and note-taking. 
 
 Obsidian is relatively easy to learn, and you do not need to be a coder, programmer or techie to learn or use the software. Trust me, I am from the pre-internet era and quickly learned this. We will start by developing notes together in week two, with you starting discussion posts on your own in week three. In the following weeks, you will create a discussion post in Obsidian that will be deposited into a Class Community Vault. Here, you will read your peers' discussions and link your thoughts to other discussion posts that you believe are important to your thoughts or link to your ideas in some way you think is relevant. For the purpose of this class, students will need to use the provided templates to maintain consistent criteria for note-taking as well as equality in the assessment process. The content within these templates is of your choosing. The goal for the end product is a communal repository that we all can use to inform our final projects. Links to your classmates' notes might inspire or change how you think about a particular idea or a note you created. Since archaeological sites and museums are comprised of individuals working as teams to excavate and create knowledge about the past as well as promote knowledge exploration and dissemination to the public, I want us to explore how we create and disseminate knowledge both independently and as a collective in this course. 
 
 
 #### Readings: 
+
 Sönke Ahrens'  book, _How to Take Smart Notes_, is meant for you to skim through for the duration of the course. This is not, strictly speaking, a peer-reviewed academic book, but it is a great source to learn how to create notes or Atomic notes. As Andy Roddick (2022) observes, making notes, not taking notes, forces you to think more critically about the ideas you formulate and record as notes. 
 
 Ahrens, Sönke. 2017   _How to Take Smart Notes : One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers._ Place of publication is not identified_. Sönke Ahrens. 
