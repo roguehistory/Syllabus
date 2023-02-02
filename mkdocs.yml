@@ -1,4 +1,4 @@
-site_name: Creating Digital Enchantments for Byzantine Archaeology & Numismatics in Public History
+site_name: Creating Digital Enchantments
 
 theme:
     name: 'material'
@@ -7,7 +7,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
+      primary: green
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
