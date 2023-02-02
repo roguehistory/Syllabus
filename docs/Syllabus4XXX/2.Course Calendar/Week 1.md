@@ -1,4 +1,4 @@
-![[CoinHoard.jpg]]
+![[CoinHoard.jpeg]]
 
 
 ### Introductions:
