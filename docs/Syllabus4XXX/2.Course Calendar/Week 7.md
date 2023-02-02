@@ -1,7 +1,7 @@
 # Week Seven
 # Inserting Byzantium into National Narrative: A Greek Case Study.
 
-![[StoaOfAttalos.jpeg]]
+![[Temple.jpeg]]
 
 ### Situating Byzantium into Greek National Narratives
 
