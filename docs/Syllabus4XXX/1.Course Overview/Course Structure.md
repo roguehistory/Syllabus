@@ -39,6 +39,7 @@ The last phase (weeks 9-13) centres around digital methods and theory to (re)add
 ### Your Success:
 
 Your success in this class is dependent on three principles:
+
 1) **Come Prepared**. Do the readings, be prepared to discuss and collaborate with me and your peers. Each class is designed to explore and discuss the assigned readings and podcasts, and how they can inform our research objectives and goals. I will not be lecturing for an hour and a half each class. But I might nerd out and gab your ear off. 
 
 2) **Be Fearless**. Despite what Yoda might think: "Do, or do not. There is no try." (Starwars, Episode V), I want you to **try** new tools and venture into the swampy unknown. 
