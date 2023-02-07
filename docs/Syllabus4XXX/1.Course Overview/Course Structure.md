@@ -15,24 +15,34 @@ The last phase (weeks 9-13) centres around digital methods and theory to (re)add
 ### Course Expectations:
 
 1) Complete assigned weekly readings.
+
 2) Come prepared to discuss readings for each class.
+
 3) Participate in discussion posts.
+
 4) Participate and collaborate in class tutorials.
+
 5) Submit a final digital project.
 
 ### Learning Outcomes:
 
 1) Discuss and contextualize the development of Byzantine Studies as a discipline. 
+
 2) Conduct independent research on Byzantine history and identity.
+
 3) Analyze, evaluate and identify Byzantine coins.
+
 4) Identify cultural heritage and ethical issues concerning material culture.
+
 5) Prepare and create a public-facing project utilizing the digital methods and tools discussed throughout the course. 
 
 ### Your Success:
 
 Your success in this class is dependent on three principles:
 1) **Come Prepared**. Do the readings, be prepared to discuss and collaborate with me and your peers. Each class is designed to explore and discuss the assigned readings and podcasts, and how they can inform our research objectives and goals. I will not be lecturing for an hour and a half each class. But I might nerd out and gab your ear off. 
+
 2) **Be Fearless**. Despite what Yoda might think: "Do, or do not. There is no try." (Starwars, Episode V), I want you to **try** new tools and venture into the swampy unknown. 
+
 3) **Fail Gloriously**. Words I live by now. Do not be afraid to fail. When we **try** new methods, theories and digital tools, we are bound to mess up, break things, and fail. If "we" fail, then "we" have learned something.  
 
 ---
